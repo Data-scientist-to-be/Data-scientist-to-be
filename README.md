@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Youssra;Data+Scientist+%7C+Network+Science;Turning+Complex+Networks+Into+Insight" alt="Typing SVG" />
 
-### 🧬 Network Science × Computational Biology × Machine Learning
+### Network Science × Computational Biology × Machine Learning
 
 *M2 Data Science @ Polytech Nantes · MIT MicroMasters in Statistics & Data Science*
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 🎯 What I'm building
+### What I'm building
 
 I turn messy, high-dimensional data — gene expression matrices, interaction networks, graphs — into structure that's interpretable and actionable. My focus sits at the intersection of **network science**, **genomics**, and **graph-based machine learning**.
 
@@ -20,7 +20,7 @@ Currently looking for a **Data Science / ML Research internship** where I can wo
 
 ---
 
-### 🔬 Featured Projects
+### Featured Projects
 
 <!-- Uncomment and fill in as projects go live
 <table>
@@ -63,11 +63,11 @@ One-line description of impact/result.
 </table>
 -->
 
-> 🚧 First project in progress — check back soon.
+> First project in progress — check back soon.
 
 ---
 
-### 🛠️ Toolkit
+### Toolkit
 
 <div align="center">
 
@@ -79,11 +79,11 @@ One-line description of impact/result.
 
 ---
 
-### 🎓 Background
+### Background
 
-- 🎓 M2 Data Science, Polytech Nantes (Chantrerie)
-- 📜 MIT MicroMasters in Statistics and Data Science
-- 🎓 B.Eng. Information Systems & Big Data Engineering, ENSA Berrechid
+- M2 Data Science, Polytech Nantes (Chantrerie)
+- MIT MicroMasters in Statistics and Data Science
+- B.Eng. Information Systems & Big Data Engineering, ENSA Berrechid
 
 ---
 
